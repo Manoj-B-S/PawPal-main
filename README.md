@@ -18,23 +18,22 @@ PawPal is an intelligent web-based application designed to help pet owners asses
 Displays welcoming images and invites users to check their pet's fur health.
 ![5](https://github.com/user-attachments/assets/3237cffe-64ca-488f-846b-3902c10d4bec)
 
-
-
 ### 📥 Upload Fur Image
 User uploads a dog's fur image for health analysis.
-> ![Upload Image](2.jpg)
+![3](https://github.com/user-attachments/assets/dbb7d5bd-96b9-4225-abef-ab6602b8220b)
 
 ### 🧠 AI Analysis Results
 Shows prediction confidence, detected condition, and care suggestions.
-> ![Analysis Results](3.jpg)
+![4](https://github.com/user-attachments/assets/b01e35fc-1789-429c-ad09-a696f9e1412a)
 
 ### 🤖 AI Chat Assistant
 Chat window for asking pet health questions based on the diagnosis.
-> ![Chat Assistant](4.jpg)
+![3](https://github.com/user-attachments/assets/68da44bb-c88f-4d72-8ef0-b74975a57dfd)
 
 ### 📘 Educational Section
 Displays common fur changes, causes, and care tips for pet owners.
-> ![Pet Fur Health Tips](5.jpg)
+![1](https://github.com/user-attachments/assets/148bb341-5d78-4cb4-a4e1-ad8020316fb0)
+
 
 ---
 
