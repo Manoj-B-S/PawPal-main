@@ -16,7 +16,8 @@ PawPal is an intelligent web-based application designed to help pet owners asses
 
 ### 🏠 Home Page
 Displays welcoming images and invites users to check their pet's fur health.
-> ![Home Page](1.jpg)
+![Uploading image.png…]()
+
 
 ### 📥 Upload Fur Image
 User uploads a dog's fur image for health analysis.
