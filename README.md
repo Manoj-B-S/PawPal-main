@@ -62,3 +62,12 @@ Displays common fur changes, causes, and care tips for pet owners.
    ```bash
    git clone https://github.com/Manoj-B-S/PawPal-main.git
    cd PawPal-main
+
+## 📄 Research Paper
+
+This project is supported and documented in the following research publication:
+
+**Title**: *AI Powered Dog Care Companion for Early Skin Condition Detection*  
+**Published in**: International Research Journal of Innovations in Engineering and Technology (IRJIET)  
+**Link**: [IRJIET-ICCIS2025131749625932.pdf](https://irjiet.com/common_src/article_file/IRJIET-ICCIS2025131749625932.pdf)
+
